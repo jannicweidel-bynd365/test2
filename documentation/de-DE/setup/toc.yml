@@ -1,0 +1,4 @@
+- name: Berechtigungssatz zuweisen
+  href: assign-permission-set.md
+- name: Beyond Carts einrichten
+  href: setup-beyond-carts.md

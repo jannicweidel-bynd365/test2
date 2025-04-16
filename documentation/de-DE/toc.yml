@@ -1,0 +1,12 @@
+- name: Über BEYOND Carts
+  href: index.md
+- name: Einrichtung
+  href: setup/toc.yml
+- name: Funktionen
+  items:
+  - name: Warenkorb erstellen
+    href: Features/create-cart.md
+  - name: Artikel zum Warenkorb hinzufügen
+    href: Features/add-items-to-cart.md
+  - name: Bestellung aus Warenkörben erstellen
+    href: Features/create-purchase-order-from-carts.md
