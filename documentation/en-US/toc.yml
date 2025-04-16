@@ -1,0 +1,24 @@
+- name: CloudConnector
+  href: appsource.md
+- name: Vorwort
+  items:
+    - name: Vorwort
+      href: Preface/preface.md
+    - name: Allgemein
+      href: Preface/general.md
+    - name: Einleitung
+      href: Preface/about.md
+- name: Einrichtung
+  items:
+  - name: Berechtigungssatz zuweisen
+    href: Setup/assign-permission-set.md
+  - name: Beyond Carts einrichten
+    href: Setup/setup-beyond-carts.md
+- name: Funktionen
+  items:
+  - name: Warenkorb erstellen
+    href: Features/create-cart.md
+  - name: Artikel zum Warenkorb hinzufügen
+    href: Features/add-items-to-cart.md
+  - name: Bestellung aus Warenkörben erstellen
+    href: Features/create-purchase-order-from-carts.md
