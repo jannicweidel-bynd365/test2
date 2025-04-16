@@ -24,14 +24,14 @@ Um Beyond Carts einzurichten, gehen Sie wie folgt vor:
 1. Die Seite **Beyond Carts Einrichtung** wird angezeigt.  
     <figure>
       <a name="beyond-carts-setup"></a>
-      <img src="../media/beyond-carts-setup.png" alt="Beyond Carts Einrichtung"></img>
+      <img src="../assets/beyond-carts-setup.png" alt="Beyond Carts Einrichtung"></img>
       <figcaption>Abbildung: Beyond Carts Einrichtung</figcaption>
     </figure>
 1. Öffnen Sie die Dropdownliste für das Feld **Standard Warenkorbnr.** und klicken Sie auf **Neu**. Dieser Warenkorb wird immer dann verwendet, wenn für einen Benutzer kein eigener Warenkorb erstellt wurde. Wir empfehlen, das Feld **Wiederkehrend** für diesen Warenkorb nicht zu aktivieren.  
 1. Das Fenster **Auswählen – Warenkorb** wird angezeigt.  
     <figure>
       <a name="select-cart"></a>
-      <img src="../media/select-cart.png" alt="Auswählen – Warenkorb"></img>
+      <img src="../assets/select-cart.png" alt="Auswählen – Warenkorb"></img>
       <figcaption>Abbildung: Auswählen – Warenkorb</figcaption>
     </figure>
 1. Vervollständigen Sie die Informationen für den Warenkorb und kehren Sie zur Seite **Beyond Carts Einrichtung** zurück.  

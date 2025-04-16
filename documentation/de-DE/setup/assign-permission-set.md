@@ -28,7 +28,7 @@ Um die Benutzerberechtigung für **BEYOND Carts** einem Benutzer zuzuordnen, geh
 1. Klicken Sie in der Menüleiste auf **Zugehörig** > **Zugriffsrechte** > **Benutzerberechtigungssatz nach Benutzer**.  
     <figure>
       <a name="bydcarts-permission-sets"></a>
-      <img src="../media/bydcarts-permission-sets.png" alt="Berechtigungssätze für BEYOND Carts"></img>
+      <img src="../assets/bydcarts-permission-sets.png" alt="Berechtigungssätze für BEYOND Carts"></img>
       <figcaption>Abbildung: Berechtigungssätze für BEYOND Carts</figcaption>
     </figure>
 1. Die Seite **Benutzerberechtigungssatz nach Benutzer** wird angezeigt.  

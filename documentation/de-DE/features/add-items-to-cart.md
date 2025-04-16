@@ -26,13 +26,13 @@ Um einen Artikel zum Warenkorb hinzuzufügen, gehen Sie wie folgt vor:
 1. Um einen Artikel zu dem Warenkorb hinzuzufügen, klicken Sie in dem Bereich **Zeilen** auf die entsprechende Artikelzeile und wählen aus dem Menü die Option **Zum Warenkorb hinzufügen** aus.  
     <figure>
       <a name="add-to-cart"></a>
-      <img src="../media/add-to-cart.png" alt="Artikelzeile zum Warenkorb hinzufügen"></img>
+      <img src="../assets/add-to-cart.png" alt="Artikelzeile zum Warenkorb hinzufügen"></img>
       <figcaption>Abbildung: Artikelzeile zum Warenkorb hinzufügen</figcaption>
     </figure>
 1. Wenn Sie bei der Einrichtung des Warenkorbs im Feld **Standard Warenkorbverhalten** den Wert **Direkt hinzufügen** eingestellt haben, erhalten Sie eine Nachricht, dass der Artikel zu einem Warenkorb hinzugefügt wurde. Wenn Sie bei der Einrichtung des Warenkorbs im Feld **Standard Warenkorbverhalten** den Wert **Benutzereingabe** eingestellt haben, müssen Sie nun die Menge des Artikels und weitere Informationen definieren.  
     <figure>
       <a name="enter-item-details"></a>
-      <img src="../media/enter-item-details.png" alt="Artikelmengen und -informationen eingeben"></img>
+      <img src="../assets/enter-item-details.png" alt="Artikelmengen und -informationen eingeben"></img>
       <figcaption>Abbildung: Artikelmengen und -informationen eingeben</figcaption>
     </figure>
 1. Geben Sie unter dem Feld **Kreditorennr.** den Kreditor an, über den dieser Artikel bezogen werden kann.  

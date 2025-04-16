@@ -22,14 +22,14 @@ Um einen Warenkorb zu erstellen, gehen Sie wie folgt vor:
 1. Die Seite **Warenkörbe** wird angezeigt.  
     <figure>
       <a name="create-cart"></a>
-      <img src="../media/create-cart.png" alt="Warenkorb erstellen"></img>
+      <img src="../assets/create-cart.png" alt="Warenkorb erstellen"></img>
       <figcaption>Abbildung: Warenkorb erstellen</figcaption>
     </figure>
 1. Um einen neuen Warenkorb zu erstellen, klicken Sie in der Menüleiste auf die Option **Neu**.  
 1. Eine neue Warenkorbkarte wird angezeigt.  
     <figure>
       <a name="new-cart"></a>
-      <img src="../media/new-cart.png" alt="Neue Warenkorbkarte"></img>
+      <img src="../assets/new-cart.png" alt="Neue Warenkorbkarte"></img>
       <figcaption>Abbildung: Neue Warenkorbkarte</figcaption>
     </figure>
 1. Klicken Sie in das Feld **Beschreibung** und geben Sie eine Beschreibung für den Warenkorb an. Beachten Sie, dass die Informationen im Feld **Nr.** automatisch vom System vergeben werden, wenn Sie die Nummernserie für Warenkörbe auf der Seite **BeyondCarts Einrichtung** hinterlegt haben. Weitere Informationen zur Einrichtung erhalten Sie unter dem Kapitel [Beyond Carts einrichten](../setup/setup-beyond-carts.md).  

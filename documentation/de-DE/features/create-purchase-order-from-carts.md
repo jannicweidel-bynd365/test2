@@ -27,7 +27,7 @@ Um eine Bestellung auf Grundlage eines oder mehrerer Warenkörbe zu erstellen, g
 1. Das Fenster **Warenkorbzeilen** wird angezeigt.  
     <figure>
       <a name="cart-lines"></a>
-      <img src="../media/cart-lines.png" alt="Warenkorbzeilen"></img>
+      <img src="../assets/cart-lines.png" alt="Warenkorbzeilen"></img>
       <figcaption>Abbildung: Warenkorbzeilen</figcaption>
     </figure>
 1. Wählen Sie die Artikelzeile aus und klicken Sie auf **OK**, um die Warenkorbzeile in die Einkaufsbestellung zu übernehmen.  
