@@ -25,11 +25,7 @@ Um eine Bestellung auf Grundlage eines oder mehrerer Warenkörbe zu erstellen, g
 1. Geben Sie unter dem Feld **Kreditorenname** den Namen des Kreditoren an, für den Sie eine Einkaufsbestellung erstellen möchten.  
 1. Klicken Sie auf die Option **Warenkorbzeilen holen** in der Menüleiste.  
 1. Das Fenster **Warenkorbzeilen** wird angezeigt.  
-    <figure>
-      <a name="cart-lines"></a>
-      <img src="../assets/cart-lines.png" alt="Warenkorbzeilen"></img>
-      <figcaption>Abbildung: Warenkorbzeilen</figcaption>
-    </figure>
+    ![cart-lines](../assets/cart-lines.png)  
 1. Wählen Sie die Artikelzeile aus und klicken Sie auf **OK**, um die Warenkorbzeile in die Einkaufsbestellung zu übernehmen.  
 1. Es wird eine Artikelzeile in der Einkaufsbestellung erzeugt. Gleichzeitig wird die entsprechende Artikelzeile aus dem Warenkorb gelöscht. Wenn die Artikelzeile im Warenkorb weiterhin angezeigt wird, handelt es sich um eine „wiederkehrende“ Artikelzeile, d.h. dieser Artikel wird wiederholt bestellt.  
 1. Wiederholen Sie den Vorgang bis alle Warenkorbzeilen für den ausgewählten Kreditor in die Einkaufsbestellung überführt wurden und schließen Sie dannn die Einkaufsbestellung ab.  

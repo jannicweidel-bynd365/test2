@@ -22,18 +22,10 @@ Um Beyond Carts einzurichten, gehen Sie wie folgt vor:
 1. Rufen Sie aus dem Rollencenter die Suchfunktion auf (**ALT+Q**).  
 1. Suchen Sie nach **[Beyond Carts Einrichtung](https://businesscentral.dynamics.com/?page=70838780)** und klicken Sie auf das entsprechende Suchergebnis.  
 1. Die Seite **Beyond Carts Einrichtung** wird angezeigt.  
-    <figure>
-      <a name="beyond-carts-setup"></a>
-      <img src="../assets/beyond-carts-setup.png" alt="Beyond Carts Einrichtung"></img>
-      <figcaption>Abbildung: Beyond Carts Einrichtung</figcaption>
-    </figure>
+   ![beyond-carts-setup](../assets/beyond-carts-setup.png)  
 1. Öffnen Sie die Dropdownliste für das Feld **Standard Warenkorbnr.** und klicken Sie auf **Neu**. Dieser Warenkorb wird immer dann verwendet, wenn für einen Benutzer kein eigener Warenkorb erstellt wurde. Wir empfehlen, das Feld **Wiederkehrend** für diesen Warenkorb nicht zu aktivieren.  
 1. Das Fenster **Auswählen – Warenkorb** wird angezeigt.  
-    <figure>
-      <a name="select-cart"></a>
-      <img src="../assets/select-cart.png" alt="Auswählen – Warenkorb"></img>
-      <figcaption>Abbildung: Auswählen – Warenkorb</figcaption>
-    </figure>
+   ![select-cart](../assets/select-cart.png)  
 1. Vervollständigen Sie die Informationen für den Warenkorb und kehren Sie zur Seite **Beyond Carts Einrichtung** zurück.  
 1. Wenn Sie mehrere Warenkörbe pro Benutzer zulassen möchten, aktivieren Sie den Schieberegler **Mehrere Warenkörbe pro User**.  
 1. Wählen Sie im Dropdownmenü für das Feld **Standard Warenkorbverhalten** zwischen den Optionen **Direkt hinzufügen** oder **Benutzereingabe**. Bei der Option **Direkt hinzufügen** werden die Positionszeilen direkt aus dem Beleg mit der entsprechenden Menge in den Warenkorb hinzugefügt. Bei der Option **Benutzereingabe** werden Sie bei dem Übertrag der Positionszeilen in den Warenkorb dazu aufgefordert, die Artikelmenge anzugeben.    

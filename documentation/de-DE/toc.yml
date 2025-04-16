@@ -1,7 +1,19 @@
-- name: Über BEYOND Carts
-  href: index.md
+- name: CloudConnector
+  href: appsource.md
+- name: Vorwort
+  items:
+    - name: Vorwort
+      href: Preface/preface.md
+    - name: Allgemein
+      href: Preface/general.md
+    - name: Einleitung
+      href: Preface/about.md
 - name: Einrichtung
-  href: setup/toc.yml
+  items:
+  - name: Berechtigungssatz zuweisen
+    href: Setup/assign-permission-set.md
+  - name: Beyond Carts einrichten
+    href: Setup/setup-beyond-carts.md
 - name: Funktionen
   items:
   - name: Warenkorb erstellen

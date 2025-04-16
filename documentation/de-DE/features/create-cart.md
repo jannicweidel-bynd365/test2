@@ -1,14 +1,5 @@
 ---
 title: "Warenkorb erstellen"
-author: jannicweidel-bynd365
-ms.author: jannicweidel-bynd365
-ms.custom: na
-ms.date: 27/11/2023
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms-service: ""
 ---
 
 # <a name="create-cart"></a>Warenkorb erstellen
@@ -20,18 +11,10 @@ Um einen Warenkorb zu erstellen, gehen Sie wie folgt vor:
 1. Rufen Sie aus dem Rollencenter die Suchfunktion auf (**ALT+Q**).  
 1. Suchen Sie nach **[Warenkörbe](https://businesscentral.dynamics.com/?page=70838783)** und klicken Sie auf das entsprechende Suchergebnis.  
 1. Die Seite **Warenkörbe** wird angezeigt.  
-    <figure>
-      <a name="create-cart"></a>
-      <img src="../assets/create-cart.png" alt="Warenkorb erstellen"></img>
-      <figcaption>Abbildung: Warenkorb erstellen</figcaption>
-    </figure>
+   ![create-cart](../assets/create-cart.png)  
 1. Um einen neuen Warenkorb zu erstellen, klicken Sie in der Menüleiste auf die Option **Neu**.  
 1. Eine neue Warenkorbkarte wird angezeigt.  
-    <figure>
-      <a name="new-cart"></a>
-      <img src="../assets/new-cart.png" alt="Neue Warenkorbkarte"></img>
-      <figcaption>Abbildung: Neue Warenkorbkarte</figcaption>
-    </figure>
+   ![new-cart](../assets/new-cart.png)  
 1. Klicken Sie in das Feld **Beschreibung** und geben Sie eine Beschreibung für den Warenkorb an. Beachten Sie, dass die Informationen im Feld **Nr.** automatisch vom System vergeben werden, wenn Sie die Nummernserie für Warenkörbe auf der Seite **BeyondCarts Einrichtung** hinterlegt haben. Weitere Informationen zur Einrichtung erhalten Sie unter dem Kapitel [Beyond Carts einrichten](../setup/setup-beyond-carts.md).  
 1. Öffnen Sie die Dropdown-Liste für das Feld **Benutzer-ID** und wählen Sie den Benutzer aus, dem dieser Warenkorb zugeordnet werden soll.  
 1. Über den Wert im Feld **Standard Warenkorbverhalten** bestimmen Sie, wie die Artikel in den Warenkorb hinzugefügt werden. Die folgenden Werte sind möglich:  
