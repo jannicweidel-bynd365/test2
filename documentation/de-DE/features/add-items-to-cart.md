@@ -2,7 +2,7 @@
 title: "Artikel zu Warenkorb hinzufügen"
 ---
 
-# <a name="add-items-to-cart"></a>Artikel zu Warenkorb hinzufügen
+# <a name="add-items-to-cart"></a>Artikel zu Warenkorb hinzufüg
 
 In diesem Kapitel wird beschrieben, wie Sie einen oder mehrere Artikel zu dem allgemeinen Warenkorb oder Ihrem persönlichen Warenkorb hinzufügen. Wenn Sie keinen persönlichen Warenkorb haben, werden die von Ihnen ausgewählten Artikelzeilen an den Standard-Warenkorb übertragen.  
 
